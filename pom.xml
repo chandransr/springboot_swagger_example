@@ -17,6 +17,10 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
+		<sonar.projectKey>chandransr_springboot_swagger_example</sonar.projectKey>
+  <sonar.organization>chandransr</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>16124f3711cd26ad7d8951f6ddd1dd69d13abd39</sonar.login>
 	</properties>
 	<dependencies>
 		<dependency>
